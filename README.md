@@ -2,6 +2,7 @@
 Converting Velodyne scans to PCD files in KITTI dataset.
 
 ```
+$ bash requirements.sh
 $ mkdir build
 $ cd build
 $ cmake ..
